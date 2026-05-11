@@ -2,8 +2,8 @@
 #ifndef INTBINARYTREE_H
 #define INTBINARYTREE_H
 
-// The IntBinaryTree class manages a binary tree of integers.
-class IntBinaryTree {
+// The BinaryTree class manages a binary tree of strings now!
+class StringBinaryTree {
 private:
    // TreeNode is a private structure for IntBinaryTree nodes.
    struct TreeNode {
