@@ -2,6 +2,9 @@
 #ifndef STRINGBINARYTREE_H
 #define STRINGBINARYTREE_H
 
+#include <string>
+using namespace std;
+
 // The StringBinaryTree class manages a binary tree of strings.
 class StringBinaryTree {
 private:
